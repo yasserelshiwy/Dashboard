@@ -1,5 +1,5 @@
 import { Stack, useTheme } from "@mui/material";
-import Card from "./card";
+import Card from "./Card";
 import EmailIcon from "@mui/icons-material/Email";
 import PointOfSaleIcon from "@mui/icons-material/PointOfSale";
 import PersonAddIcon from "@mui/icons-material/PersonAdd";
